@@ -1,6 +1,6 @@
 function  Success() {
   return (
-   <h1> Sorry to see you cancelled your stripe order</h1>
+   <h1> Thank You For Your Purchase</h1>
  )
 
 }
